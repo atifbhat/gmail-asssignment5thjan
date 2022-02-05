@@ -36,7 +36,7 @@ i:hover {
 }
 
 .header__middle>input {
-    width: 900px;
+    width: 500px;
     height: 30px;
     border: none;
     background-color: whitesmoke;
@@ -51,7 +51,7 @@ i:hover {
 
 .header__right {
     display: flex;
-    margin-left: 290px;
+    margin-left: 150px;
     padding: 10px;
     margin-bottom: 10px;
 }
@@ -59,7 +59,7 @@ i:hover {
 .header__right>i {
     font-size: 35px;
     margin-top: 6px;
-    margin-right: 30px;
+    /* margin-right: 30px; */
 }
 
 .header__right>button>img {
@@ -150,17 +150,17 @@ i {
 .emailList_settingRight {
     position: relative;
     top: -400px;
-    right: -1450px;
+    right: -900px;
 }
 
 .emailList_settingRight>i {
-    margin-right: 18px;
+    /* margin-right: 18px; */
 }
 
 .middle_section_center {
     display: flex;
     margin-left: 15px;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     color: orangered;
 }
@@ -196,6 +196,6 @@ input {
 
 .message {
     border: 2px solid grey;
-    width: 100%;
+    width: 870px;
     height: 30px;
 }
